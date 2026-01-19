@@ -1,5 +1,9 @@
 # 💫 About Me:
-Saya adalah mahasiswa Teknik Informatika yang memiliki minat besar dalam pengembangan web (Web Developer) dan Internet of Things (IoT).
+Mahasiswa Teknik Informatika Universitas Paramadina semester 5 dengan minat pada pengembangan web dan 
+Internet of Things (IoT). Memiliki pengalaman pengembangan sistem melalui proyek akademik, termasuk 
+pembuatan website dan aplikasi menggunakan WordPress, PHP Native, dan MySQL (CRUD), serta 
+pengembangan sistem IoT berbasis MQTT dengan integrasi Node-RED dan visualisasi data menggunakan 
+Grafana. Aktif menulis karya tulis ilmiah dan memiliki publikasi pada jurnal nasional terindeks SINTA.
 
 
 ## 🌐 Socials:
