@@ -1,9 +1,5 @@
 # 💫 About Me:
-Mahasiswa Teknik Informatika Universitas Paramadina semester 5 dengan minat pada pengembangan web dan 
-Internet of Things (IoT). Memiliki pengalaman pengembangan sistem melalui proyek akademik, termasuk 
-pembuatan website dan aplikasi menggunakan WordPress, PHP Native, dan MySQL (CRUD), serta 
-pengembangan sistem IoT berbasis MQTT dengan integrasi Node-RED dan visualisasi data menggunakan 
-Grafana. Aktif menulis karya tulis ilmiah dan memiliki publikasi pada jurnal nasional terindeks SINTA.
+Mahasiswa Teknik Informatika di Universitas Paramadina (semester 6) dengan minat yang kuat di bidang Pengembangan Web dan Internet of Things (IoT). Berpengalaman sebagai Intern Tata Kelola TI dan Forensik Digital di Otoritas Jasa Keuangan (OJK). Terampil dalam mengembangkan aplikasi web menggunakan WordPress, PHP Native, dan MySQL (CRUD), serta membangun sistem IoT menggunakan MQTT dengan integrasi Node-RED dan visualisasi data melalui Grafana. Aktif terlibat dalam penulisan ilmiah dengan publikasi di jurnal terakreditasi nasional yang diindeks oleh SINTA.
 
 
 ## 🌐 Socials:
